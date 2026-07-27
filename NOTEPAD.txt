@@ -1,0 +1,18 @@
+
+NOW BELOW THINGS I REQUIRED IN PRODUCT PAGE WHICH IS "products.html"
+
+1. ON LEFT SIDE OF TOP AFTER SOME 2.5 CM SPACE OUR SHOP NAME MENTIONE "DIVISHA'S COFFEE", IN THAT "COFFEE" VERY SLIGHTLY DOWN NOT ALIGN TO "DIVISHA'S". IN BACKGROUND with CREAME colour
+
+2. ON CENTER TOP SIDE AS we have different pages Like HOME  WHICH IS "index.html", ABOUT WHICH IS "about.html", FEEDBACK which is "feedback.html" and CONTACT WHICH IS "contact.html". their back ground is dark brown and text is in bold white colour.
+
+3. IN CENTRE PART OF BODY I WANT TO SHOW PICTURE PRODUCT NAME AND LITTLE BIT INFORMATION ABOUNT THAT PRODUCT. BELOW I WILL TELL PRODUCT NAME, IMAGE LOCATION AND LITTLE BIT DESCRIPTION. PUT PICTURE ON LEFT SIDE AND INFORMATION ON RIGHT SIDE ALONG WITH PRODUCT NAME AS LITTLE BOLD AND HEADING AND KEEP PICTURE PRODUCT NAME AND DESCRIPTION IN SINGLE BORDER BOX TYPE.
+
+3A. PRODUCT IMAGE - "‪D:\DIVISHASCAFE\IMAGE\FILTERCOFFEE.jpg". PRODUCT NAME "FILTER COFFEE" PRODUCT DESCRIPTION -  "This strong decoction is mixed with heated full-fat milk and sugar (often to taste). It is vigorously poured between a metal tumbler and a broad saucer (dabarah) to aerate it, creating its signature bubbly, frothy top."
+
+3B. PRODUCT IMAGE - "‪D:\DIVISHASCAFE\IMAGE\CAPPECINO.jpg". PRODUCT NAME "CAPPUCCINO COFFEE" PRODUCT DESCRIPTION -  "A cappuccino is a beloved espresso-based hot coffee drink made with layering of espresso, steamed milk, and milk foam on top"
+
+3C. PRODUCT IMAGE - "‪D:\DIVISHASCAFE\IMAGE\CAPPECINO.jpg". PRODUCT NAME "ESPRESSO COFFEE" PRODUCT DESCRIPTION -  "Brewed coffee beans from a professional espresso machine. A thick layer of cream on top of steamed milk, made by the frother on the espresso machine."
+
+3D. PRODUCT IMAGE - "‪‪D:\DIVISHASCAFE\IMAGE\LATTE.jpg". PRODUCT NAME "LATTE COFFEE" PRODUCT DESCRIPTION -  "when the espresso and steamed milk are mixed together, it creates a creamy texture, permitting it a more subtle flavour."
+
+So give me code for product page which is "products.html" and if any changes in css file or js file
